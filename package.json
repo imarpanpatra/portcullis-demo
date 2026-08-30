@@ -5,6 +5,7 @@
   "description": "A throwaway target repository for Portcullis audits.",
   "license": "MIT",
   "dependencies": {
+    "left-pad": "1.3.0",
     "ms": "^2.1.3"
   }
 }
