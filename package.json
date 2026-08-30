@@ -1,0 +1,10 @@
+{
+  "name": "portcullis-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A throwaway target repository for Portcullis audits.",
+  "license": "MIT",
+  "dependencies": {
+    "ms": "^2.1.3"
+  }
+}
