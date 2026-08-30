@@ -5,6 +5,7 @@
   "description": "A throwaway target repository for Portcullis audits.",
   "license": "MIT",
   "dependencies": {
+    "chalk": "^6.0.0",
     "ms": "^2.1.3"
   }
 }
